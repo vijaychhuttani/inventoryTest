@@ -1,0 +1,92 @@
+{
+  "PhysicalCountLines" : [
+    {
+      "sku" : 69300,
+      "isSerialized" : true,
+      "lineId" : 17,
+      "description" : "Iphone 5s Gold",
+      "cat" : "Phone",
+      "subcat" : "iphone",
+      "quantityCounted" : {
+        "sellable" : 0,
+        "nonSellable" : 0,
+        "checkedOut" : 0
+        },
+      "quantityExpected" : 16,
+      "details" : {
+        "IMEIS" : {
+          "sellable" : [
+            { "imei" : 80000000001,
+              "isCounted" : false
+            },
+            { "imei" : 80000000002,
+              "isCounted" : false
+            },
+            { "imei" : 80000000003,
+              "isCounted" : false
+            },
+            { "imei" : 80000000004,
+              "isCounted" : false
+            },
+            { "imei" : 80000000005,
+              "isCounted" : false
+            },
+            { "imei" : 80000000006,
+              "isCounted" : false
+            },
+            { "imei" : 80000000007,
+              "isCounted" : false
+            },
+            { "imei" : 80000000008,
+              "isCounted" : false
+            },
+            { "imei" : 80000000009,
+              "isCounted" : false
+            },
+            { "imei" : 80000000010,
+              "isCounted" : false
+            }
+          ],
+          "nonSellable" : [
+            { "imei" : 80000000011,
+              "isCounted" : false
+            },
+            { "imei" : 80000000012,
+              "isCounted" : false
+            }
+          ],
+          "checkedOut" : [
+            { "imei" : 80000000013,
+              "isCounted" : false
+            },
+            { "imei" : 80000000014,
+              "isCounted" : false
+            },
+            { "imei" : 80000000015,
+              "isCounted" : false
+            },
+            { "imei" : 80000000016,
+              "isCounted" : false
+            }
+          ]
+        } 
+      }
+    },
+    {
+      "sku" : 71118,
+      "isSerialized" : false,
+      "lineId" : 10,
+      "description" : "Some weird Battery",
+      "cat" : "Accessory",
+      "subcat" : "Battery",
+      "quantityCounted" : {
+        "sellable" : 0,
+        "nonSellable" : 0,
+        "checkedOut" : 0
+        },
+      "quantityExpected" : 16,
+      "details" : {
+      }
+    }
+  ]
+}
